@@ -79,8 +79,8 @@ I specialize in **AI-integrated SaaS**, using models like GPT for:
 ---
 
 ### 🌐 Connect With Me
-📫 **Email:** husnainalyy@gmail.com  
-💼 **Upwork:** [upwork.com/freelancers/husnainalyy](https://www.upwork.com/freelancers/husnainalyy)  
+📫 **Email:** alyhusnaiin@gmail.com  
+💼 **Upwork:** [upwork.com/freelancers/husnainalyy]([https://www.upwork.com/freelancers/husnainalyy](https://www.upwork.com/freelancers/~01ffc0767703157267))  
 💻 **LinkedIn:** [linkedin.com/in/husnainalyy](https://www.linkedin.com/in/husnainalyy)  
 🌍 **Portfolio:** [husnaindev.tech](https://husnaindev.tech) 
 
